@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Mech",
+			"Path": "C:\\Nightmare Games\\Games\\In Production\\Mech\\Source\\Mech.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MechEditor",
+			"Path": "C:\\Nightmare Games\\Games\\In Production\\Mech\\Source\\MechEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

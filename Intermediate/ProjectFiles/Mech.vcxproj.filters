@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Mech.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mech.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MechEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Mech">
+      <UniqueIdentifier>{1906E611-6612-3B7C-83E2-D542DACDACF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mech\Mech.Build.cs">
+      <Filter>Source\Mech</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Mech\Mech.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\Mech.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mech\MechCharacter.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\MechCharacter.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mech\MechGameMode.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\MechGameMode.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mech\MechProjectile.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\MechProjectile.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mech\TP_PickUpComponent.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\TP_PickUpComponent.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mech\TP_WeaponComponent.cpp">
+      <Filter>Source\Mech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mech\TP_WeaponComponent.h">
+      <Filter>Source\Mech</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
