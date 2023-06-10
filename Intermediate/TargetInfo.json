@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Mech",
-			"Path": "C:\\Nightmare Games\\Games\\In Production\\Mech\\Source\\Mech.Target.cs",
+			"Path": "C:\\Nightmare Games\\Games\\In Production\\unreal_mech_repo\\Source\\Mech.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MechEditor",
-			"Path": "C:\\Nightmare Games\\Games\\In Production\\Mech\\Source\\MechEditor.Target.cs",
+			"Path": "C:\\Nightmare Games\\Games\\In Production\\unreal_mech_repo\\Source\\MechEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
