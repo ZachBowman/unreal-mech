@@ -56,7 +56,7 @@ void AMechCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInpu
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
 	// Bind fire event
-	PlayerInputComponent->BindAction("PrimaryAction", IE_Pressed, this, &AMechCharacter::OnPrimaryAction);
+	PlayerInputComponent->BindAction("PrimaryWeapon", IE_Pressed, this, &AMechCharacter::OnPrimaryAction);
 
 	// Enable touchscreen input
 	EnableTouchscreenMovement(PlayerInputComponent);
