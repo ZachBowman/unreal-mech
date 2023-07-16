@@ -8,6 +8,6 @@ public class Mech : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-        PublicDependencyModuleNames.AddRange(new string[] { "AIModule", "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay" });
+        PublicDependencyModuleNames.AddRange(new string[] { "AIModule", "Core", "CoreUObject", "GameplayAbilities", "GameplayTags", "GameplayTasks", "Engine", "InputCore", "HeadMountedDisplay" });
     }
 }
