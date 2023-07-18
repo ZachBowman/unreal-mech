@@ -9,7 +9,6 @@ Uai_patrol_cpp::Uai_patrol_cpp()
 	PrimaryComponentTick.bCanEverTick = true;
 }
 
-// Called when the game starts
 void Uai_patrol_cpp::BeginPlay()
 {
 	Super::BeginPlay();
