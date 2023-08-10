@@ -13,6 +13,7 @@ class AMechGameMode : public AGameModeBase
 
 public:
 	AMechGameMode();
+	//virtual void BeginPlay() override;
 };
 
 
