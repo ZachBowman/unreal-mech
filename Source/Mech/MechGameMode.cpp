@@ -14,3 +14,7 @@ AMechGameMode::AMechGameMode()
 
 	GameStateClass = AMechGameState::StaticClass();
 }
+
+//void AMechGameMode::BeginPlay()
+//{
+//}
